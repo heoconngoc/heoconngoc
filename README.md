@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dat Quoc Pham, just call me Isaac for convenience!!!
+- 👋 Hi, I’m Dat Quoc Pham!!!
 - 👀 I’m interested in sky gazing, photography and night walks
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on everything related to Computer Science 
