@@ -2,7 +2,7 @@
 - 👀 I’m interested in sky gazing, photography and night walks
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on everything related to Computer Science 
-- 📫 How to reach me: quocdatpham@umass.edu
+- 📫 How to reach me: quocdatphamm@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like crazy ideas and challenging stuffs!
 
