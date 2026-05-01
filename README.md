@@ -2,24 +2,21 @@
 
 <table>
   <tr>
-    <td align="center" width="800">
-
-      <h2>👋 Hi, I'm Dat Quoc Pham</h2>
-
+    <td align="center" width="800"> 
+      <h2>👋 Hi, I'm Heo Con Ngoc</h2>
       <p>
         <img src="https://img.shields.io/badge/Vietnam-🇻🇳-red" />
         <img src="https://img.shields.io/badge/USA-🇺🇸-blue" />
         <img src="https://img.shields.io/badge/UMass%20Amherst-🎓-maroon" />
       </p>
 
-      <p>
+  <p>
         I'm a full‑stack developer who loves building end‑to‑end products  
         and exploring how systems work behind the scenes.  
         Currently diving deeper into machine learning and experimenting  
         with small ML projects to expand my skill set.
-      </p>
-
-    </td>
+  </p>
+  </td>    
   </tr>
 </table>
 
