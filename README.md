@@ -42,58 +42,6 @@
 
 ![Tools and cloud](https://skillicons.dev/icons?i=git,github,docker,azure,vscode&theme=dark)
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💸 [Expense Tracker](https://github.com/heoconngoc/Expense-Tracker)
-
-A full-stack personal finance app for tracking income, expenses, and transfers, with interactive dashboards and deployment on an Azure VM.
-
-**Focus:** Full-stack · Database design · Cloud deployment
-
-[**Explore project →**](https://github.com/heoconngoc/Expense-Tracker)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏦 [Buddy-Bank](https://github.com/tDep0w0/Buddy-Bank)
-
-A group expense-splitting mobile app combining React Native and FastAPI with AI-assisted receipt parsing and debt-simplification algorithms. **Work in progress.**
-
-**Stack:** TypeScript · React Native · FastAPI · PostgreSQL · Gemini API
-
-[**Explore project →**](https://github.com/tDep0w0/Buddy-Bank)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 [Game-Playing AI](https://github.com/heoconngoc/Game-AI-Search-Algorithms-Reinforcement-Learning)
-
-Hands-on game-playing agents for Tic-Tac-Toe and Connect Four, exploring Minimax, alpha-beta pruning, MCTS, policy-guided search, and reinforcement learning through self-play.
-
-**Stack:** Python · PyTorch · NumPy · Jupyter
-
-[**Explore project →**](https://github.com/heoconngoc/Game-AI-Search-Algorithms-Reinforcement-Learning)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [Deep Learning Studies](https://github.com/heoconngoc/Deep_Learning)
-
-A collection of Jupyter notebooks implementing neural networks and exploring CNNs, RNNs, Transformers, NLP, reinforcement learning, and YOLOv8 object detection.
-
-**Stack:** Python · PyTorch · NumPy · Jupyter · YOLOv8
-
-[**Explore project →**](https://github.com/heoconngoc/Deep_Learning)
-
-</td>
-</tr>
-</table>
 
 ## 📊 GitHub Analytics
 
