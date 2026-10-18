@@ -26,6 +26,8 @@
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
 ![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c&theme=dark)
@@ -42,6 +44,7 @@
 
 ![Tools and cloud](https://skillicons.dev/icons?i=git,github,docker,azure,vscode&theme=dark)
 
+</div>
 
 ## 📊 GitHub Analytics
 
